@@ -13,11 +13,11 @@ Internship Board — Task 3
 
 | Test | Expected result | Actual result |
 |---|---|---|
-| Fetch internship list | HTTP 200 | Pending |
-| Security headers | Present | Pending |
-| Invalid email | HTTP 400 | Pending |
-| Missing internship | HTTP 404 | Pending |
-| Valid application | HTTP 201 | Pending |
+| Fetch internship list | HTTP 200 | PASS |
+| Security headers | Present | PASS |
+| Invalid email | HTTP 400 | PASS |
+| Missing internship | HTTP 404 | PASS |
+| Valid application | HTTP 201 | PASS |
 
 ## Manual verification
 
